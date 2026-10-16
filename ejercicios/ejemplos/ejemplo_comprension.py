@@ -1,3 +1,4 @@
+
 # Forma Tradicional
 cuadrados = []
 for num in range (1,6):
