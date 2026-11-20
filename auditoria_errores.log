@@ -1,0 +1,6 @@
+2026-11-20 15:34:52,161 - ERROR - Error crítico durante el cálculo de división en el sistema.
+Traceback (most recent call last):
+  File "/workspaces/Estructuras-1/ejercicios/ejemplos/ejemplos_excepciones/ExcepcionesLogin.py", line 20, in realizar_division
+    resultado = dividendo / divisor
+    ~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
